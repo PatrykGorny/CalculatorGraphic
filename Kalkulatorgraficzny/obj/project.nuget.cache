@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TfhhgvOxlRBKDFxxs5B9rwgvqC2oqvsvRCuWNAKO3/Ln13odQK7b4UZhqPBczqfIrRDGP97xHRqWF9Rk5GPTYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Patryk\\RiderProjects\\Kalkulatorgraficzny\\Kalkulatorgraficzny\\Kalkulatorgraficzny.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patryk\\.nuget\\packages\\controlzex\\7.0.0-alpha0021\\controlzex.7.0.0-alpha0021.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\mahapps.metro\\3.0.0-alpha0492\\mahapps.metro.3.0.0-alpha0492.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
